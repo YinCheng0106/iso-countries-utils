@@ -1,5 +1,7 @@
 # iso-countries-utils
 
+[English](./README.md) | 繁體中文
+
 一個輕量級、零依賴且型別安全的工具庫，用於轉換 ISO 3166-1 國家代碼（Alpha-2, Alpha-3, Numeric）與國旗 Emoji。專為高效能設計，並內建模糊搜尋與驗證功能。
 
 ![License](https://img.shields.io/npm/l/iso-countries-utils)
