@@ -1,13 +1,13 @@
 # iso-countries-utils
 
-English | [繁體中文](./README.zh-TW.md)
-
 A lightweight, zero‑dependency, and type‑safe utility library for converting ISO 3166‑1 country codes (Alpha‑2, Alpha‑3, Numeric) and flag emoji. Built for high performance with fuzzy search and validation out of the box.
 
 ![License](https://img.shields.io/npm/l/iso-countries-utils)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)
 ![Size](https://img.shields.io/bundlephobia/min/iso-countries-utils)
 ![Version](https://img.shields.io/npm/v/iso-countries-utils)
+
+English | [繁體中文](./README.zh-TW.md)
 
 ## Features
 
