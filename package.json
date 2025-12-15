@@ -1,11 +1,20 @@
 {
   "name": "iso-countries-utils",
+  "description": "",
   "module": "index.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": {
     "name": "YinCheng0106",
     "url": "https://github.com/YinCheng0106"
   },
+  "repository": {
+    "type": "github",
+    "url": "git+https://github.com/YinCheng0106/iso-countries-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YinCheng0106/iso-countries-utils/issues"
+  },
+  "homepage": "https://github.com/YinCheng0106/iso-countries-utils#readme",
   "type": "module",
   "scripts": {
     "test": "bun test test/",
@@ -17,6 +26,14 @@
     "dist"
   ],
   "license": "MIT",
+  "keywords": [
+    "iso-3166-1",
+    "alpha2",
+    "alpha3",
+    "numeric",
+    "countryCodes",
+    "countryFlags"
+  ],
   "devDependencies": {
     "@types/bun": "latest",
     "@types/node": "^25.0.1",
