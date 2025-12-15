@@ -1,0 +1,24 @@
+{
+  "name": "iso-countries-utils",
+  "module": "index.ts",
+  "author": {
+    "name": "YinCheng0106",
+    "url": "https://github.com/YinCheng0106"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "bun test test/",
+    "clean": "rm -rf dist",
+    "build": "bun run clean && tsc",
+    "prepublishOnly": "bun run clean && bun run build"
+  },
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^25.0.1",
+    "typescript": "^5.9.3"
+  }
+}
