@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/YinCheng0106/iso-countries-utils#readme",
   "type": "module",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "bun test test/",
     "clean": "rm -rf dist",

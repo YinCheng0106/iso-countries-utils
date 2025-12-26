@@ -4,7 +4,6 @@ A lightweight, zero‑dependency, and type‑safe utility library for converting
 
 ![License](https://img.shields.io/npm/l/iso-countries-utils)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)
-![Size](https://img.shields.io/bundlephobia/min/iso-countries-utils)
 ![Version](https://img.shields.io/npm/v/iso-countries-utils)
 
 English | [繁體中文](./README.zh-TW.md)
