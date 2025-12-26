@@ -2,7 +2,7 @@
   "name": "iso-countries-utils",
   "description": "",
   "module": "index.ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "YinCheng0106",
     "url": "https://github.com/YinCheng0106"
