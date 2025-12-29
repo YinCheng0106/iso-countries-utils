@@ -1,6 +1,6 @@
 {
   "name": "iso-countries-utils",
-  "description": "",
+  "description": "A lightweight, zero‑dependency, and type‑safe utility library for converting ISO 3166‑1 country codes (Alpha‑2, Alpha‑3, Numeric) and flag emoji. Built for high performance with fuzzy search and validation out of the box.",
   "module": "index.ts",
   "version": "1.0.3",
   "author": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/YinCheng0106"
   },
   "repository": {
-    "type": "github",
+    "type": "git",
     "url": "git+https://github.com/YinCheng0106/iso-countries-utils.git"
   },
   "bugs": {
